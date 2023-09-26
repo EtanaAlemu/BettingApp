@@ -1,4 +1,3 @@
-```markdown
 # Telegram Bot Betting App Platform API
 
 Welcome to the Telegram Bot Betting App Platform API documentation. This API allows interaction with our betting services through a Telegram bot interface.
@@ -41,13 +40,13 @@ Before you start, make sure you have the following prerequisites installed:
 1. Clone the repository:
 
    ```shell
-   git clone https://github.com/YourUsername/telegram-bot-betting-app.git
+   git clone https://github.com/Abdi-Tiruneh/BettingApp.git
    ```
 
 2. Navigate to the project directory:
 
    ```shell
-   cd telegram-bot-betting-app
+   cd BettingApp
    ```
 
 3. Set up your Telegram bot token:
@@ -89,6 +88,3 @@ Contributions are welcome! Please follow our [contribution guidelines](CONTRIBUT
 ## License
 
 This project is licensed under the [MIT License](LICENSE).
-```
-
-In this README template, replace placeholders like `YOUR_BOT_TOKEN_HERE`, `YourUsername`, and other information with your actual project details. Additionally, you can create separate files for contribution guidelines (`CONTRIBUTING.md`) and a license file (`LICENSE`) and reference them accordingly.
